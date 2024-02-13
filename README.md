@@ -28,4 +28,4 @@ The application should handle image uploads effectively by creating both thumbna
 Admin Panel:
 The admin panel offers insights into website statistics and content management. It provides a percentage-based overview of page access, displaying recent access rates to each page within the last 24 hours (data sourced from the log file). Furthermore, the admin panel showcases the number of users who logged in on the current day and facilitates the management of the entire site's content.
 
-This project epitomizes a comprehensive approach to web application development, encompassing design, dynamic content management, security, and an administration interface. The final product will exemplify proficiency in PHP programming, database design, and user experience enhancement.
+
